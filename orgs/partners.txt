@@ -1,3 +1,4 @@
-aaa
+partner list
 SalesInc
 TheStartup
+ClosedML
